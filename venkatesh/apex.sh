@@ -1,0 +1,2 @@
+cat friend.txt
+
