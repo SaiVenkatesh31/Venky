@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mohi the Financer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      text-align: center;
+      padding-top: 5%;
+    }
+    h1 {
+      font-size: 3em;
+      color: #2c3e50;
+    }
+    h2 {
+      font-size: 1.5em;
+      color: #555;
+    }
+    img {
+      width: 200px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <img src="mohi.jpg" alt="Mohi Image" />
+  <h1>Mohi the Financer</h1>
+  <h2>Mohi AI Engineer Kommugudem</h2>
+</body>
+</html>
